@@ -29,7 +29,7 @@ I'm a **Computer Engineering** student passionate about software development and
 
 ### 📈 GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=Brkeey&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=Brkeey&show_icons=true&theme=radical
 
 ---
 
