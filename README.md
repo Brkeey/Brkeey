@@ -7,7 +7,7 @@ I'm a **Computer Engineering** student passionate about software development and
 ### 🛠️ Technologies & Tools
 
 - **Languages**: Python, Swift, JavaScript, HTML, CSS
-- **Frameworks/Libraries**: Django, Tkinter, Numpy, Pandas, Bootstrap, SwiftUI
+- **Frameworks/Libraries**: Django, Numpy, Pandas, Bootstrap, SwiftUI
 - **Tools**: Git, GitHub, Xcode, VS Code
 - **Databases**: SQLite, MySQL
 
