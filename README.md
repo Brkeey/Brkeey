@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering student with experience in Python and web development, currently learning Swift to become an iOS developer.</h3>
 
 
-- 🔭 I’m currently working on [SoruPay](https://github.com/Brkeey/SoruPay)
+- 🔭 I’m currently working on [CoinScope](https://github.com/Brkeey/CoinScope)
 
 - 🌱 I’m currently learning **SwiftUI**
 
