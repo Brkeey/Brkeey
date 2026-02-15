@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering student with experience in Python and web development, currently learning Swift to become an iOS developer.</h3>
 
 
-- 🔭 I’m currently working on [Sitty_App](https://www.sitty.app)
+- 🔭 I’m currently working on [GhostTag](https://www.ghosttag.app)
 
 - 🌱 I’m currently learning **SwiftUI**
 
